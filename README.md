@@ -1,5 +1,5 @@
 # Inventory Management & Cost Optimization
-### Business Data Management Capstone Project | IIT Madras BS Degree
+### Business Data Management Capstone Project | IIT Madras DS Diploma
 
 A data-driven inventory management and purchase optimization system developed for **Rajesh Surgical**, a wholesale medical supplies business. This project leverages Python and Microsoft Excel to analyze three years of purchasing data, classify inventory, forecast demand, and identify procurement cost-saving opportunities.
 
@@ -199,15 +199,14 @@ Identified:
 ## Repository Structure
 
 ```
-├── Data/
-├── Data Cleaning/
-├── EDA/
-├── ABC Analysis/
-├── VED Analysis/
-├── Forecasting/
-├── Cost Optimization/
-├── Visualizations/
-├── Reports/
+├── Analysis/
+├── Proof of Originality/
+├── Raw Data/
+├── descryptive stats.xlsx
+├── Final Report
+├── Mid term report
+├── Proposal
+├── PPT
 └── README.md
 ```
 
@@ -236,8 +235,7 @@ This project demonstrates how data analytics can improve procurement decisions, 
 
 **Pranjal Dubey**
 
-- Decision Intelligence Associate @ Axtria
-- IIT Madras BS Degree (Data Science)
+- IIT Madras Diploma in Data Science
 - M.Sc. Operational Research, University of Delhi
 
 ---
